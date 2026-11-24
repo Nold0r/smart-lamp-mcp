@@ -1,0 +1,5 @@
+mcp>=2.3,<3
+psutil>=5.9
+# light music only
+numpy>=1.24
+soundcard>=0.4.3
